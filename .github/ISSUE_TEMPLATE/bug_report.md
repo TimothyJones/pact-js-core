@@ -18,7 +18,7 @@ _Thanks again!_
 _Please provide at least OS and version of pact-js_
 
 - **OS**: _e.g. Mac OSX 10.11.5_
-- **Pact Node version**: _e.g. Pact Node v2.6.0_
+- **Pact JS Core version**: _e.g. Pact JS Core v12.0.2_
 - **Node Version**: `node --version`
 - **Other Versions**: _Any other versions you think might be relevant (optional)_
 
